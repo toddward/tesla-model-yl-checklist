@@ -1,7 +1,8 @@
 # Tesla Model Y L Delivery Checklist
 
-The following is a distillation of posts from [`r/TeslaModelY`](https://www.reddit.com/r/TeslaModelY/) and
-[`r/ModelYL`](https://www.reddit.com/r/ModelYL/). The list
+The following is a distillation of posts from [`r/TeslaModelY`](https://www.reddit.com/r/TeslaModelY/),
+[`r/ModelYL`](https://www.reddit.com/r/ModelYL/), [`r/ModelY`](https://www.reddit.com/r/ModelY/), and
+[`r/TeslaLounge`](https://www.reddit.com/r/TeslaLounge/). The list
 is not meant to replace Tesla's QC and thus doesn't offer 100% coverage. Rather, these contributions from Model Y and Model Y L owners
 who already walked the path aim to cover recurring problems that unfortunately seem to escape quality control (QC) at
 the factory as well as at the service centers.
@@ -36,6 +37,17 @@ something is missing at delivery.
 Tesla sometimes reassigns the VIN a few days before pickup. If that happens, update your insurance: Tesla needs proof of coverage
 for that specific car ([1](https://www.reddit.com/r/ModelYL/comments/1wl1gdb/)).
 
+For payment, Tesla takes wire transfers and cashier's checks but not personal checks. Linking your bank account in the app (through
+Plaid) completes the payment step, and one owner waited to send the money until after inspecting the car
+([1](https://www.reddit.com/r/ModelYL/comments/1wwn52u/)). Another owner was told to pay at least 7 days before delivery,
+so ask your delivery center which applies ([2](https://www.reddit.com/r/ModelY/comments/1wymd4k/)).
+
+Treat the delivery appointment as tentative until the car has actually arrived. Owners have had appointments cancelled the
+morning of pickup, or an hour before, because the car was still in transit or hadn't been built yet, even after paying in full
+and starting insurance. Rescheduled dates were described as placeholders, and some owners had their VIN pulled and were left
+without a new date ([1](https://www.reddit.com/r/ModelYL/comments/1wy99hp/), [2](https://www.reddit.com/r/ModelY/comments/1wuczob/),
+[3](https://www.reddit.com/r/ModelY/comments/1wu957e/)).
+
 If you're trading in a car, take your license plates, toll tag, garage door opener, and personal items out of it before you hand
 it over. Owners at factory pickup had their trade-ins taken away with the plates still on; Tesla offered to dispose of them, but
 some states require plates to be surrendered to the DMV ([1](https://www.reddit.com/r/ModelYL/comments/1wsekav/)).
@@ -62,8 +74,15 @@ should be approximately equal). An improperly installed windshield causes signif
 
 #### Sides and body
 
-- [ ] Check for uneven/wide panel gaps and that panels are flush to car, including around the headlights, trunk arms, roof, and frunk
-- [ ] Inspect the paint on the outside, ensure panel corners do not have chips
+- [ ] Check for uneven/wide panel gaps and that panels are flush to car, including around the doors, trunk arms, and roof
+- [ ] Inspect the paint on the outside, ensure panel corners do not have chips. Look for dust or specks trapped under the clear
+coat, especially on the fenders ([1](https://www.reddit.com/r/ModelYL/comments/1wuafit/), [2](https://www.reddit.com/r/ModelYL/comments/1wvjv6o/))
+> * __Fix:__ light scratches in the clear coat can be buffed out on site; one owner's were before they left
+> ([1](https://www.reddit.com/r/ModelYL/comments/1wubzds/)). Dust under the clear coat needs a service appointment.
+- [ ] Look for signs that a panel was repainted before delivery: overspray on trim, seals, or glass, polishing compound in panel
+seams or light lenses, or a panel whose finish doesn't match its neighbors. One owner's PPF installer found a poorly repainted
+rear panel two weeks after pickup, and Tesla said there was nothing it could do
+([1](https://www.reddit.com/r/ModelY/comments/1vw7db7/))
 - [ ] Check that the trim along the bottom of the sides of the vehicle are flush with the bottom of the doors
 - [ ] Check for trim stains
 - [ ] Check all 4 door levers
@@ -71,12 +90,14 @@ should be approximately equal). An improperly installed windshield causes signif
 - [ ] Check for damage to black rocker panels
 - [ ] Check charging port fit (driver's side)
 - [ ] Inspect the glass roof for scratches, chips, and even alignment
+> * **Fix:** Tesla offered to replace the roof glass for a scratch an owner found after delivery
+> ([1](https://www.reddit.com/r/ModelY/comments/1wteff7/))
 > * **Normal:** the untinted strip at the rear of the glass roof is left uncoated so antenna signals can get through
 > ([1](https://www.reddit.com/r/ModelYL/comments/1wrwazk/))
 
 #### Wheels and tires
 
-- [ ] Ensure wheels are not scratched
+- [ ] Ensure wheels are not scratched or dented ([1](https://www.reddit.com/r/TeslaModelY/comments/1wsna4u/))
 - [ ] Ensure there is nothing lodged in the tires (screws, nails, debris, etc.)
 - [ ] Confirm all 4 hubcaps are present and properly attached
 - [ ] Inspect all wheel wells. Each wheel well is fitted with noise dampener covers that are attached to the body with a combination of plastic
@@ -90,6 +111,7 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 - [ ] Check the tail light fit
 > * **Photo:** [Tail light (passenger side) not flush with panel](https://imgur.com/aPzCKKG)
 > * **Fix:** Not yet available
+- [ ] Check that the liftgate sits evenly, with matching gaps on both sides ([1](https://www.reddit.com/r/ModelYL/comments/1wuafit/))
 - [ ] Inspect the tail lights for condensation
 - [ ] Check for tow hitch if you included it on your order.
 
@@ -105,6 +127,10 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 
 - [ ] Turn on the lights including: fog lights, headlights, tail lights, reverse light, brake lights, headlight signal, and side signal lights
 - [ ] Check that wipers function correctly and look for potential wiper dings on hood
+- [ ] Spray the washer fluid, then look for a low-fluid warning on the screen and for fluid dripping under the front of the car.
+One owner's reservoir leaked a gallon of fluid onto the ground after a refill, and another owner's tank arrived cracked
+([1](https://www.reddit.com/r/TeslaLounge/comments/1ws26cf/))
+> * __Fix:__ replace the reservoir (one owner's tank, pump, and assembly were replaced as an assembly defect)
 
 #### Glass
 
@@ -150,10 +176,10 @@ offender ([1](https://www.reddit.com/r/ModelYL/comments/1wsntcg/), [2](https://w
 - [ ] Inspect the screen for scratches, phantom touches and dead pixels (use the Sketchpad app)
 - [ ] Inspect the dash for scratches
 - [ ] Launch Series: the dashboard wing matches your order. The suede wing comes only with the black interior; Zen Gray
-interiors get fabric ([1](https://www.reddit.com/r/ModelYL/comments/1wujsth/), [2](https://www.reddit.com/r/ModelYL/comments/1wt716w/))
+interiors get fabric ([1](https://www.reddit.com/r/ModelYL/comments/1wujsth/), [2](https://www.reddit.com/r/ModelYL/comments/1wt716w/)).
+The door inserts below the ambient light strip follow the same pattern ([3](https://www.reddit.com/r/ModelYL/comments/1wuafit/))
 - [ ] Inspect the center console for scratches, dings, etc.
 - [ ] Inspect the steering wheel, check front and back for scratches or tears
-- [ ] Check windshield all around
 - [ ] Inspect the headliner all around (no grease, damage or scuffs)
 - [ ] Look for scratches on door sills
 - [ ] Check seats for scuffs, damage, and bad seams
@@ -161,11 +187,12 @@ interiors get fabric ([1](https://www.reddit.com/r/ModelYL/comments/1wujsth/), [
 - [ ] Confirm seat warmers work 
 - [ ] Inspect the floor mats for rips, stains, etc.
 - [ ] Inspect the metal accelerator and brake pedal arms; there have been [reports](https://www.reddit.com/r/TeslaModelY/comments/gyhim1/is_this_normal_my_brake_pedal_arm_has_a_welded/) of different finish on pedals (matte on accelerator, glossy on brake) and a conspicuous weld in the middle of the brake pedal
-- [ ] Validate doors appropriately unlatch via the door open switch
+- [ ] Validate doors appropriately unlatch via the door open switch. All four doors should behave the same way; one owner had
+a single door that, after a gentle close, locked and wouldn't release from the button ([1](https://www.reddit.com/r/ModelYL/comments/1wurw46/))
 
 ### Controls and electronics
 
-- [ ] Check the alerts on the screen; there should be no active warnings (one owner had an airbag service error)
+- [ ] Check the alerts on the screen; there should be no active warnings
 - [ ] Launch Series: check the Software screen for Acceleration Boost. Reports conflict on whether it's included, so compare
 against your order screenshot ([1](https://www.reddit.com/r/ModelYL/comments/1wtrycx/), [2](https://www.reddit.com/r/ModelYL/comments/1wpi2zk/))
 - [ ] Check that turn signal and drive selection stalks work and actuate smoothly
@@ -173,15 +200,18 @@ against your order screenshot ([1](https://www.reddit.com/r/ModelYL/comments/1wt
 - [ ] Open and close windows using one click open close and manually open and close (make sure there are no noises and they stay up when you close, and when they
 go down they do all the way down for front two windows. The rear two windows don't go down all the way.
 - [ ] Fold mirrors
-- [ ] Verify backup camera, Park Assist sensor, and Blind Spot camera
+- [ ] Verify backup camera, Park Assist sensor, and Blind Spot camera. Open each camera view and look for a foggy or cloudy
+image, especially from the fender (side repeater) cameras. One owner's driver-side fender camera was hazy and kept triggering a
+camera-obstructed warning that cleaning didn't clear; service said several cars had come in with the same problem
+([1](https://www.reddit.com/r/ModelYL/comments/1wvjv6o/))
+> * __Fix:__ camera replacement at the service center
 - [ ] Check all interior lights, and that all reading lights turn on with a press
   - [ ] Puddle lights, door pocket lighting, overhead lights, etc.
   - [ ] Check steering wheel control lights
 - [ ] Open and close the glovebox
   - [ ] Make sure USB drive for Sentry Mode / Dashcam is present
 - [ ] Verify that wireless charging works on both sides and the phone connects
-- [ ] Confirm wired charging works (2 x USB-C in front, 2 x USB-C in back)
-  - [ ] Test USB ports (USB-A, USB-C) and 12VDC receptacle.
+- [ ] Confirm wired charging works on every USB-C port (2 in front, 2 in back) and test the 12V receptacle
 - [ ] Test the HVAC system: turn on climate control, force the heat pump to kick in by taking the temperature to either end of the scale and listen for loud noises
 - [ ] Play a familiar track through the sound system and confirm that all speakers work (use the balance and fader controls) and there
 are no unexpected clicks, etc.
@@ -216,15 +246,24 @@ window (see [What next?](#what-next)).
 - [ ] The steering wheel is centered when driving straight, and the car tracks straight without pulling or a delayed response
 to small steering inputs ([1](https://www.reddit.com/r/ModelYL/comments/1wsntcg/))
 > * __Fix:__ alignment adjustment at the service center
-- [ ] At highway speed, listen for wind whistle around the doors and mirrors ([1](https://www.reddit.com/r/ModelYL/comments/1wos8lz/))
+- [ ] Get on the highway early. Feel for tire vibration or wheel imbalance, and listen for wind whistle around the doors and
+mirrors ([1](https://www.reddit.com/r/ModelYL/comments/1wos8lz/), [2](https://www.reddit.com/r/ModelYL/comments/1wuafit/))
 > * __Fix:__ one owner traced a passenger-door whistle to the triangle trim next to the mirror; open a service request
+- [ ] Watch for warnings that appear once you're moving. One owner's safety restraint system error showed up 20 minutes into
+the drive home ([1](https://www.reddit.com/r/ModelYL/comments/1wdpf9r/))
+> * __Fix:__ service traced it to a faulty left body wiring harness. The part had to be ordered and the repair meant
+> taking the interior apart; the owner drove a loaner while they waited
 
 ## Final thoughts about your delivery inspection
 
 Please don't be "that guy" that blocks Tesla deliveries and staff for hours while going over your new car with a microscope!
-You can report all of the above after you get home, at your leisure: you have a 7 day/100 miles. It’s not like you won’t
+You can report all of the above after you get home, within the reporting window (see [What next?](#what-next)). It’s not like you won’t
 accept the car because of some minor issue that can be fixed by a mobile service tech later (but won’t be fixed at
 pickup). Visit and check the local super charger while you are there, too.
+
+Photograph every panel, wheel, and the interior before you drive off. If something shows up later, such as paint that starts
+lifting a couple of days after delivery, the photos show it wasn't there at pickup
+([1](https://www.reddit.com/r/ModelY/comments/1wvim5j/)).
 
 Better yet, if you can, pick up the car in person at an express checkout site. Assuming all of your affairs are in order via
 the website, Tesla will park your car in their lot and put your name on it. You simply sign the paperwork they leave on the dash,
@@ -238,9 +277,13 @@ Factory pickups (such as Giga Texas) happen in an open lot, often in the heat. C
 crevices and on the door sills, which can hide scratches, so bring a microfiber cloth. If it's raining, ask for a covered or
 indoor spot before you start ([1](https://www.reddit.com/r/ModelYL/comments/1wsekav/),
 [2](https://www.reddit.com/r/ModelYL/comments/1wr9f9s/), [3](https://www.reddit.com/r/ModelYL/comments/1wtt50r/)).
+Budget extra time: system errors linking the temporary tag or setting up the phone key held owners up from 30 minutes to two
+hours ([1](https://www.reddit.com/r/ModelYL/comments/1wsekav/), [2](https://www.reddit.com/r/ModelYL/comments/1wr9f9s/)).
 
 This car is quite expensive. Make sure it is absolutely what you want before you accept delivery. With the recent push to "make the numbers,"
-Tesla is selling cars at a faster clip than they are staffing up at. Wait times to get issues resolved later might be long.
+Tesla is selling cars at a faster clip than they are staffing up at. Wait times to get issues resolved later might be long:
+Model Y L owners report first available service appointments three to four weeks out
+([1](https://www.reddit.com/r/TeslaLounge/comments/1ws26cf/), [2](https://www.reddit.com/r/ModelYL/comments/1wsntcg/)).
 
 ## What next?
 
@@ -252,13 +295,22 @@ Should anything escape factory quality control, service center quality control, 
 [3](https://www.reddit.com/r/TeslaModelY/comments/hgew40/model_y_rejected_delivery_today/),
 [4](https://www.reddit.com/r/TeslaModelY/comments/hfuum2/deferred_my_delivery/),
 [5](https://www.reddit.com/r/TeslaModelY/comments/hfb1vg/cancelled_model_y_delivery/),
-[6](https://www.reddit.com/r/TeslaModelY/comments/hete2x/update_rejected_delivery/)), check out the threads
- for details. Following that, you should be assigned a new VIN.
+[6](https://www.reddit.com/r/TeslaModelY/comments/hete2x/update_rejected_delivery/),
+[7](https://www.reddit.com/r/ModelY/comments/1vw7db7/)), check out the threads
+ for details. Following that, you should be assigned a new VIN. One owner refused a car with a smashed roof and
+ got a better one on the second try; another was told they had to accept a car with paint damage, dents, a dented rim, and
+ misaligned doors, then spent two weeks in the shop and later learned that wasn't true in California
+ ([1](https://www.reddit.com/r/TeslaModelY/comments/1wsna4u/)).
+
+- Once you accept the car, expect a **repair, not a replacement**. An owner whose window shattered the day after pickup (a
+failed window motor) asked about exchanging the car and got a free repair instead. Keep a record of all communication with
+Tesla: app messages, call logs, and in-person conversations ([1](https://www.reddit.com/r/ModelYL/comments/1wvjv6o/)).
  
 - After leaving the lot you have 72 hours or 100 miles to **report delivery issues to be fixed free of charge**. The 72 hours
 refers to items subject to "wear and tear," such as paint defects, scratches, etc. Any item that would normally be covered
 under warranty is still covered under warranty, but things like blemishes, scratches, dings, scuffs, aren't covered by any
-other car company. However, check [this thread](https://www.reddit.com/r/TeslaModelY/comments/hh8mgv/rattling_in_back_seats_reported_within_7_days/)
+other car company. An owner who reported quarter-panel paint damage long after delivery was quoted about $1,000 CAD to fix it
+([1](https://www.reddit.com/r/ModelY/comments/1wz4u71/)). However, check [this thread](https://www.reddit.com/r/TeslaModelY/comments/hh8mgv/rattling_in_back_seats_reported_within_7_days/)
 about a problem reported within the first 7 days of ownership and being asked to accept a cost estimate.
 
 > **Note:** the information about refusing delivery and reporting delivery issues has been
@@ -268,7 +320,12 @@ about a problem reported within the first 7 days of ownership and being asked to
 
 * __FSD miles not recorded__ If the FSD mileage stat stays at 0, switch to Traffic-Aware Cruise Control and back while parked,
 or reboot the screen by holding both scroll wheels ([1](https://www.reddit.com/r/ModelYL/comments/1wsuxdy/),
-[2](https://www.reddit.com/r/ModelYL/comments/1wun89f/)).
+[2](https://www.reddit.com/r/ModelYL/comments/1wun89f/), [3](https://www.reddit.com/r/ModelYL/comments/1wvjv6o/)).
+* __Camera calibration__ FSD can be unavailable for a while after pickup while the cameras calibrate; one owner lost it for a
+few hours. That's normal. A camera-obstructed warning that won't clear after cleaning the lens is not (see the camera item
+under Controls and electronics) ([1](https://www.reddit.com/r/ModelYL/comments/1wvjv6o/)).
+* __Liftgate height__ The Model Y L's liftgate is taller than the Model Y's and can hit a low garage ceiling. Set the opening
+height before you open it in the garage ([1](https://www.reddit.com/r/ModelYL/comments/1wsza0j/)).
 * __Wheel & Tire Protection__ If it's missing from the app under Upgrades > Service Plans, Tesla has told owners the option
 appears closer to the 14-day enrollment deadline ([1](https://www.reddit.com/r/ModelYL/comments/1wssodr/)).
 * __FSD and curbs__ Several owners report FSD clipping curbs on tight right turns in their first days, and curb rash isn't
