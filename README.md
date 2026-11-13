@@ -34,18 +34,32 @@ Screenshot your order page, including the full feature list, when you order. Tes
 after orders were placed ([1](https://www.reddit.com/r/ModelYL/comments/1wujsth/)), and the screenshot is your evidence if
 something is missing at delivery.
 
+Tesla's order agreement includes an arbitration clause. You can opt out within 30 days of signing the agreement by mailing a
+letter with your name, VIN, and intent to opt out of the arbitration provision to Tesla, Inc., P.O. Box 15430, Fremont, CA
+94539-7970 ([order agreement](https://www.tesla.com/order/download-order-agreement)). The 30 days count from when you sign,
+not from delivery, so the window can close while you're still waiting for a VIN. One owner learned of it on day 30, after the
+post offices had closed, and sent the request through the app without knowing whether it would count
+([1](https://www.reddit.com/r/ModelYL/comments/1xb8ekg/)).
+
 Tesla sometimes reassigns the VIN a few days before pickup. If that happens, update your insurance: Tesla needs proof of coverage
 for that specific car ([1](https://www.reddit.com/r/ModelYL/comments/1wl1gdb/)).
 
 For payment, Tesla takes wire transfers and cashier's checks but not personal checks. Linking your bank account in the app (through
 Plaid) completes the payment step, and one owner waited to send the money until after inspecting the car
-([1](https://www.reddit.com/r/ModelYL/comments/1wwn52u/)). Another owner was told to pay at least 7 days before delivery,
-so ask your delivery center which applies ([2](https://www.reddit.com/r/ModelY/comments/1wymd4k/)).
+([1](https://www.reddit.com/r/ModelYL/comments/1wwn52u/)). A wire can wait until then too: staff warned one owner that
+theirs would be slow to clear, but it cleared 15 minutes after they called their bank
+([2](https://www.reddit.com/r/ModelYL/comments/1x8dtny/)). Another owner was told to pay at least 7 days before delivery,
+so ask your delivery center which applies ([3](https://www.reddit.com/r/ModelY/comments/1wymd4k/)).
 
 If you finance through Tesla, the credit approval lasts only 30 to 60 days. When delivery slips past it, you reapply at current
 rates and Tesla pulls your credit again; one owner who applied the day the financing task opened got a higher APR the second
 time. Owners have been told to wait until they have a VIN before applying. Some advisors promise to honor the original rate,
 so get that in writing ([1](https://www.reddit.com/r/ModelY/comments/1x4dtq9/), [2](https://www.reddit.com/r/ModelYL/comments/1x5yruf/)).
+If the new offer comes back higher, message your advisor in the app and ask them to check other lenders. Several owners got
+their original promotional rate back within minutes to hours, one by moving from Santander to Wells Fargo
+([3](https://www.reddit.com/r/ModelY/comments/1xay39a/), [4](https://www.reddit.com/r/ModelY/comments/1xb2wix/)). Check the
+down payment on the new offer as well. It can come back higher; one owner asked for the down payment they had agreed to before
+and got it while keeping the promotional rate ([5](https://www.reddit.com/r/ModelY/comments/1xah3ob/)).
 
 Treat the delivery appointment as tentative, even after the car has arrived. Owners have had appointments cancelled the
 morning of pickup, or an hour before, because the car was still in transit or hadn't been built yet, even after paying in full
@@ -53,11 +67,27 @@ and starting insurance. Rescheduled dates were described as placeholders, and so
 without a new date ([1](https://www.reddit.com/r/ModelYL/comments/1wy99hp/), [2](https://www.reddit.com/r/ModelY/comments/1wuczob/),
 [3](https://www.reddit.com/r/ModelY/comments/1wu957e/)). One Model Y owner's confirmed pickup slid back a day at a time for a
 week while the car sat at the delivery center, waiting on a California regulatory approval
-([4](https://www.reddit.com/r/ModelY/comments/1x3pq8k/)).
+([4](https://www.reddit.com/r/ModelY/comments/1x3pq8k/)). If your date keeps sliding, call. One owner whose date slid the same
+way called and got a pickup day; the car was already on the lot ([5](https://www.reddit.com/r/ModelYL/comments/1x8upjk/)).
+Another owner's pickup was pushed back a week, 90 minutes before the appointment, over something found in the final
+inspection ([6](https://www.reddit.com/r/TeslaModelY/comments/1xbt0ro/)).
+
+If you're traveling to the pickup, confirm the appointment that morning before you leave. One owner's appointment was moved
+2.5 hours before it because the transporter was late. Another had already picked up a one-way rental when the delivery truck
+broke down, and Tesla wouldn't cover the $162 ([1](https://www.reddit.com/r/ModelY/comments/1x9it87/)). Be ready to pick up on
+short notice, too. Tesla twice refused to hold one owner's assigned car for nine days while they traveled, so they put the
+order on hold and gave up the car each time. The day after they paid in full, their window jumped two months, to December
+([2](https://www.reddit.com/r/ModelYL/comments/1x6uhwk/)). Owners suggest telling your advisor you'll take other colors,
+which can match you with cars that other buyers didn't claim. One Model Y owner went to a Tesla store, where staff found an
+unlisted car still in production; taking it meant switching from Ultra Red to Quicksilver ([3](https://www.reddit.com/r/ModelY/comments/1xb2wix/)).
 
 If you're trading in a car, take your license plates, toll tag, garage door opener, and personal items out of it before you hand
 it over. Owners at factory pickup had their trade-ins taken away with the plates still on; Tesla offered to dispose of them, but
-some states require plates to be surrendered to the DMV ([1](https://www.reddit.com/r/ModelYL/comments/1wsekav/)).
+some states require plates to be surrendered to the DMV ([1](https://www.reddit.com/r/ModelYL/comments/1wsekav/)). The
+paperwork varies by location. One Texas owner got a trade-in packet by UPS a week before pickup and mailed the signed title back
+in it, because the delivery center wouldn't take documents; an owner in Atlanta got no packet and brought the title and keys to
+pickup. Several owners said staff didn't inspect their trade-ins at delivery, because the photos you upload set the value
+([2](https://www.reddit.com/r/ModelYL/comments/1xa63bq/)).
 
 ## Exterior
 
@@ -107,6 +137,10 @@ a replaced bolt-on part such as a bumper counts toward that only for its paint
 > ([1](https://www.reddit.com/r/ModelY/comments/1wteff7/))
 > * **Normal:** the untinted strip at the rear of the glass roof is left uncoated so antenna signals can get through
 > ([1](https://www.reddit.com/r/ModelYL/comments/1wrwazk/))
+- [ ] Check the edges of the rear quarter glass (the fixed windows behind the rear doors) where they meet the paint. One Model Y
+owner's tint shop found the glass pressed into the paint five days after delivery ([1](https://www.reddit.com/r/TeslaLounge/comments/1xb0sag/))
+> * __Fix:__ Tesla agreed to have a body shop fix it, with a loaner, even though the owner reported it three weeks and 2,500
+> miles after delivery
 
 #### Wheels and tires
 
@@ -162,6 +196,7 @@ offender ([1](https://www.reddit.com/r/ModelYL/comments/1wsntcg/), [2](https://w
 > * __Fix:__ service center, replace rubber seal (Tesla calls it a "secondary seal")
 - [ ] Inspect the weather seals around door gaps and windows
 - [ ] Inspect the paint in the door jams, ensure there are no chips
+- [ ] Check that the certification label (the sticker in the driver's door jamb) is present. One owner's delivery was delayed because the label was missing ([1](https://www.reddit.com/r/ModelYL/comments/1xbwk8w/))
 - [ ] Check for trim scratches on windows due to a software bug that doesn't automatically lower the window when opening the door
 
 #### Charge port
@@ -188,7 +223,11 @@ offender ([1](https://www.reddit.com/r/ModelYL/comments/1wsntcg/), [2](https://w
 
 ### Front row
 
-- [ ] Inspect the screen for scratches, phantom touches and dead pixels (use the Sketchpad app)
+- [ ] Inspect the screen for scratches, phantom touches and dead pixels (use the Sketchpad app), and its housing for chips
+([1](https://www.reddit.com/r/TeslaModelY/comments/1xbzltk/))
+> * __Fix:__ report a chip even if you'd rather not have the dash taken apart for a cosmetic repair, so it isn't blamed on you
+> later. One owner was quoted three weeks for the repair, and Tesla offered three months of FSD and six months of free
+> Supercharging to skip it
 - [ ] Inspect the dash for scratches
 - [ ] Launch Series: the dashboard wing matches your order. The suede wing comes only with the black interior; Zen Gray
 interiors get fabric ([1](https://www.reddit.com/r/ModelYL/comments/1wujsth/), [2](https://www.reddit.com/r/ModelYL/comments/1wt716w/)).
@@ -222,6 +261,9 @@ report it missing, though demo cars at delivery centers show it, and others poin
 Compare against your order screenshot ([1](https://www.reddit.com/r/ModelYL/comments/1wtrycx/), [2](https://www.reddit.com/r/ModelYL/comments/1wpi2zk/),
 [3](https://www.reddit.com/r/ModelYL/comments/1wzkg39/), [4](https://www.reddit.com/r/ModelYL/comments/1wzc0wk/))
 - [ ] Check that turn signal and drive selection stalks work and actuate smoothly
+- [ ] Move the power steering column through its full range, or turn on Easy Entry and watch it move, and listen for a rumble.
+Model Y owners call the rumble a known issue ([1](https://www.reddit.com/r/TeslaModelY/comments/1xbqotf/))
+> * __Fix:__ steering column replacement. One owner needed two service visits before the rumble stopped
 - [ ] Check that the car can be put into reverse, neutral, park
 - [ ] Open and close windows using one click open close and manually open and close (make sure there are no noises and they stay up when you close, and when they
 go down they do all the way down for front two windows. The rear two windows don't go down all the way.
@@ -239,6 +281,8 @@ camera-obstructed warning that cleaning didn't clear; service said several cars 
 - [ ] Open and close the glovebox
   - [ ] Make sure USB drive for Sentry Mode / Dashcam is present
 - [ ] Verify that wireless charging works on both sides and the phone connects
+> * **Normal:** the pads are picky about cases, and one owner's slim OtterBox blocked charging. Test with the phone out
+> of its case before reporting a fault ([1](https://www.reddit.com/r/ModelYL/comments/1x9hmyc/))
 - [ ] Confirm wired charging works on every USB-C port (2 in front, 2 in back) and test the 12V receptacle
 - [ ] Test the HVAC system: turn on climate control, force the heat pump to kick in by taking the temperature to either end of the scale and listen for loud noises
 - [ ] Play a familiar track through the sound system and confirm that all speakers work (use the balance and fader controls) and there
@@ -278,18 +322,32 @@ window (see [What next?](#what-next)).
 - [ ] The steering wheel is centered when driving straight, and the car tracks straight without pulling or a delayed response
 to small steering inputs ([1](https://www.reddit.com/r/ModelYL/comments/1wsntcg/))
 > * __Fix:__ alignment adjustment at the service center
-- [ ] Get on the highway early. Feel for tire vibration or wheel imbalance, and listen for wind whistle around the doors and
-mirrors ([1](https://www.reddit.com/r/ModelYL/comments/1wos8lz/), [2](https://www.reddit.com/r/ModelYL/comments/1wuafit/))
+- [ ] Get on the highway early. Feel for vibration in the steering wheel, especially above 70 mph, and listen for wind
+whistle around the doors and mirrors ([1](https://www.reddit.com/r/ModelYL/comments/1wos8lz/), [2](https://www.reddit.com/r/ModelYL/comments/1wuafit/),
+[3](https://www.reddit.com/r/TeslaModelY/comments/1x7w60i/))
 > * __Fix:__ one owner traced a passenger-door whistle to the triangle trim next to the mirror; open a service request
-- [ ] Listen for rattles and creaks, especially from the dash, the rear seats, and the front suspension over bumps. Before you
-book service for a dash rattle, check the storage bins: one owner's rattle turned out to be the loose wheel-cover removal tool
-([1](https://www.reddit.com/r/ModelYL/comments/1x5gtbu/), [2](https://www.reddit.com/r/ModelY/comments/1x43u6e/))
+> * __Fix:__ if a wheel balance doesn't stop a vibration, ask for a road-force balance and a check of the foam liner inside
+> each tire, which can come loose. A new Model Y Performance still shook after two service visits. Commenters traced the same
+> symptom to loose foam, bent wheels, or alignment, and several had tires replaced under warranty ([3](https://www.reddit.com/r/TeslaModelY/comments/1x7w60i/))
+- [ ] Listen for rattles, squeaks, and creaks, especially from the dash, the door panels, the rear seats, and the front
+suspension over bumps ([1](https://www.reddit.com/r/ModelYL/comments/1x5gtbu/), [2](https://www.reddit.com/r/ModelY/comments/1x43u6e/),
+[3](https://www.reddit.com/r/ModelY/comments/1xaurp7/), [4](https://www.reddit.com/r/ModelYL/comments/1x7pmnx/)). Before you
+book service, rule out loose items: one owner's dash rattle was the wheel-cover removal tool in a storage bin
+([1](https://www.reddit.com/r/ModelYL/comments/1x5gtbu/)), and another's seat rattle was the seat belt buckle tapping the
+seat ([5](https://www.reddit.com/r/ModelY/comments/1xa9klb/))
 > * __Fix:__ can take several tries. One Model Y owner was on a third service visit for a rear-seat rattle and a front
 > suspension creak ([2](https://www.reddit.com/r/ModelY/comments/1x43u6e/))
 - [ ] Watch for warnings that appear once you're moving. One owner's safety restraint system error showed up 20 minutes into
-the drive home ([1](https://www.reddit.com/r/ModelYL/comments/1wdpf9r/))
-> * __Fix:__ service traced it to a faulty left body wiring harness. The part had to be ordered and the repair meant
-> taking the interior apart; the owner drove a loaner while they waited
+the drive home ([1](https://www.reddit.com/r/ModelYL/comments/1wdpf9r/)), and another's battery management system (BMS) error
+appeared 10 days after delivery ([2](https://www.reddit.com/r/ModelYL/comments/1x8fsvl/))
+> * __Fix:__ service traced the restraint error to a faulty left body wiring harness. The part had to be ordered and the
+> repair meant taking the interior apart; the owner drove a loaner while they waited
+> * __Fix:__ the BMS error was repaired under warranty, but the car spent 10 days in service
+- [ ] Compare the speedometer with a GPS speed app. Expect it to read a little high
+([1](https://www.reddit.com/r/ModelYL/comments/1xb2b3w/))
+> * **Normal:** one owner's read 80 mph at a GPS-measured 76. Service first wanted $230 to inspect it, then said readings
+> that high are within range. Commenters said most cars read slightly high by design; other Tesla owners reported anything
+> from an exact match to 3 mph high
 
 ## Final thoughts about your delivery inspection
 
@@ -364,7 +422,13 @@ about a problem reported within the first 7 days of ownership and being asked to
 
 * __FSD miles not recorded__ If the FSD mileage stat stays at 0, switch to Traffic-Aware Cruise Control and back while parked,
 or reboot the screen by holding both scroll wheels ([1](https://www.reddit.com/r/ModelYL/comments/1wsuxdy/),
-[2](https://www.reddit.com/r/ModelYL/comments/1wun89f/), [3](https://www.reddit.com/r/ModelYL/comments/1wvjv6o/)).
+[2](https://www.reddit.com/r/ModelYL/comments/1wun89f/), [3](https://www.reddit.com/r/ModelYL/comments/1wvjv6o/)). One owner's
+stats started counting the morning after a reboot, and another's after a software update from FSD v14.3.10 to v14.3.12
+([4](https://www.reddit.com/r/ModelYL/comments/1x6z7xg/)).
+* __Phantom wipes__ The car may wipe or spray the windshield when you turn on FSD, even when the glass is clean. Owners call it
+normal but maddening, and one said it stopped after FSD v14.3.12 ([1](https://www.reddit.com/r/ModelYL/comments/1x6q3yv/),
+[2](https://www.reddit.com/r/ModelYL/comments/1x7pmnx/)). The washer fluid that comes in the car is thick and streaky, so
+some owners switch to their own once it runs low.
 * __Camera calibration__ FSD can be unavailable for a while after pickup while the cameras calibrate; one owner lost it for a
 few hours. That's normal. A camera-obstructed warning that won't clear after cleaning the lens is not (see the camera item
 under Controls and electronics) ([1](https://www.reddit.com/r/ModelYL/comments/1wvjv6o/)). Neither is FSD dropping out
