@@ -209,11 +209,12 @@ owner's tint shop found the glass pressed into the paint five days after deliver
 [2](https://www.reddit.com/r/ModelYL/comments/1x55mmo/))
 - [ ] Ensure there is nothing lodged in the tires (screws, nails, debris, etc.)
 - [ ] Confirm all 4 hubcaps are present and properly attached
-- [ ] Inspect all wheel wells. Each wheel well is fitted with noise dampener covers that are attached to the body with a combination of plastic
-pins (pushed in all the way) and metal threaded pins (sticking out) with plastic nuts. Confirm that all plastic pins are present
+- [ ] Inspect all wheel wells. Each wheel well is fitted with noise dampener covers that are attached to the body with a combination of plastic pins (pushed in all the way) and metal threaded pins (sticking out) with plastic nuts. Confirm that all plastic pins are present
 (there are no empty holes) and all metal pins (2 in each front wheel well, 4 in each rear wheel well) are present and properly attached.
 > * __Photo:__ [threaded pins with and without plastic nuts](https://imgur.com/6KqcVg4)
 > * __Fix:__ mobile service can fix it in minutes
+- [ ] Ensure tires are installed correctly with outside portion facing outside [3](https://www.reddit.com/r/ModelYL/comments/1xxriam/tesla_done_messed_up/
+)
 
 #### Rear
 
