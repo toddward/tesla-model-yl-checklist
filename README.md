@@ -317,7 +317,9 @@ offender ([1](https://www.reddit.com/r/ModelYL/comments/1wsntcg/), [2](https://w
 - [ ] Inspect the weather seals around door gaps and windows
 - [ ] Inspect the paint in the door jams, ensure there are no chips
 - [ ] Check that the certification label (the sticker in the driver's door jamb) is present. One owner's delivery was delayed because the label was missing ([1](https://www.reddit.com/r/ModelYL/comments/1xbwk8w/))
-- [ ] Check for trim scratches on windows due to a software bug that doesn't automatically lower the window when opening the door
+- [ ] Open and close each door and watch the window drop slightly as the door opens and rise once it closes. If it doesn't
+drop, the glass can scratch the trim above the door or crack. It still happens on new 2026 Model Ys, and service fixed one
+under warranty ([1](https://www.reddit.com/r/TeslaLounge/comments/1rcy1co/), [2](https://www.reddit.com/r/ModelY/comments/1sf2qh9/))
 
 #### Charge port
 
@@ -489,6 +491,11 @@ seat ([5](https://www.reddit.com/r/ModelY/comments/1xa9klb/))
 > the rear seat belt retractors and adjusted the A-pillars ([6](https://www.reddit.com/r/ModelY/comments/1xvq2ot/)). Before you
 > take the car back, ask for a ride-along with the technician so you can confirm the noise is gone; one Model 3 owner was told
 > the rattles were fixed and heard the same noises on the drive out ([7](https://www.reddit.com/r/TeslaLounge/comments/1xxytdy/))
+> * __Fix:__ for rattling or knocking from the front suspension over bumps, Tesla has two service bulletins for the refreshed
+> Model Y. SB-25-31-005 replaces the front upper control arm mounts, plus the front dampers on Premium and Performance trims;
+> SB-26-31-003 replaces the front dampers again if the noise comes back. Ask whether they apply to your car when you book
+> service ([SB-25-31-005](https://service.tesla.com/docs/ServiceBulletins/External/SB/SB-25-31-005_Replace_Suspension_Components_R1.pdf),
+> [summary](https://driveteslacanada.ca/model-y/tesla-model-y-suspension-service-bulletin-2026/))
 - [ ] In a parking lot, turn the steering wheel from lock to lock and listen for creaking or ratcheting. A month-old Model
 Y's steering started creaking; commenters had the same noise traced to a ball joint or a control arm and fixed under warranty
 ([1](https://www.reddit.com/r/ModelY/comments/1xrgx7v/))
@@ -618,7 +625,11 @@ under Controls and electronics) ([1](https://www.reddit.com/r/ModelYL/comments/1
 days later: one Model Y Performance lost it after 10 days, and service replaced a camera and then the car's computer
 ([2](https://www.reddit.com/r/ModelY/comments/1x16wcs/)). Another 2027 Model Y's FSD cut in and out from the day it left the
 lot until service replaced the left pillar camera, and a third needed the housing for the windshield cameras replaced
-([3](https://www.reddit.com/r/TeslaModelY/comments/1xtlmqk/)).
+([3](https://www.reddit.com/r/TeslaModelY/comments/1xtlmqk/)). Warnings that start right after a software update may be the
+software, not the camera. Since an update in early November, many owners get limited-visibility warnings from the pillar
+cameras, mostly the left one and mostly after dark, while the camera view looks clear. Service told one owner the update is
+causing them for many customers and to dismiss them ([4](https://www.reddit.com/r/TeslaUK/comments/1xtcady/),
+[5](https://www.reddit.com/r/TeslaSupport/comments/1y0k4dy/)).
 * __Cabin camera at night__ If FSD keeps asking you to hold the wheel only after dark, and turning on the cabin lights stops
 it, the infrared lights by the cabin camera have failed. One Model Y owner saw a "cabin camera night light faulted" alert and
 was told it's a known issue covered by the warranty ([1](https://www.reddit.com/r/TeslaModelY/comments/1xtlmqk/)).
