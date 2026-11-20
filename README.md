@@ -354,11 +354,6 @@ kept reporting the frunk open because the latch didn't seat; the car went into l
 > later. One owner was quoted three weeks for the repair, and Tesla offered three months of FSD and six months of free
 > Supercharging to skip it
 - [ ] Inspect the dash for scratches
-- [ ] Launch Series: the dashboard wing matches your order. The suede wing comes only with the black interior; Zen Gray
-interiors get fabric ([1](https://www.reddit.com/r/ModelYL/comments/1wujsth/), [2](https://www.reddit.com/r/ModelYL/comments/1wt716w/)).
-The door inserts below the ambient light strip follow the same pattern ([3](https://www.reddit.com/r/ModelYL/comments/1wuafit/)).
-Tesla now sends Zen Gray buyers an alert in the app asking them to accept the fabric wing as a configuration change, and delivery
-doesn't go ahead until they do ([4](https://www.reddit.com/r/ModelYL/comments/1xczek1/), [5](https://www.reddit.com/r/ModelYL/comments/1xdive7/))
 - [ ] Check that the ambient light strip lines up where it runs from the dash into each front door, and compare the two sides.
 One owner's passenger-side strip sat visibly lower than the dash section ([1](https://www.reddit.com/r/ModelYL/comments/1wzbkbb/))
 > * **Normal:** owners of the refreshed Model Y and Model 3 report the same offset, and most commenters called it within spec
@@ -608,12 +603,14 @@ about a problem reported within the first 7 days of ownership and being asked to
 or reboot the screen by holding both scroll wheels ([1](https://www.reddit.com/r/ModelYL/comments/1wsuxdy/),
 [2](https://www.reddit.com/r/ModelYL/comments/1wun89f/), [3](https://www.reddit.com/r/ModelYL/comments/1wvjv6o/)). One owner's
 stats started counting the morning after a reboot, and another's after a software update from FSD v14.3.10 to v14.3.12
-([4](https://www.reddit.com/r/ModelYL/comments/1x6z7xg/)). If one reboot doesn't do it, turn FSD off, reboot, drive a mile or
+([4](https://www.reddit.com/r/ModelYL/comments/1x6z7xg/)), but cars delivered in November on v14.3.13 still show it
+([5](https://www.reddit.com/r/TeslaModelY/comments/1xsly7q/)). If one reboot doesn't do it, turn FSD off, reboot, drive a mile or
 so yourself, reboot again, and turn FSD back on. Two Model Y L owners got their FSD mileage and streak counting that way
-([5](https://www.reddit.com/r/ModelYL/comments/1xqmtsu/), [6](https://www.reddit.com/r/TeslaModelY/comments/1xjwoov/)).
+([6](https://www.reddit.com/r/ModelYL/comments/1xqmtsu/), [7](https://www.reddit.com/r/TeslaModelY/comments/1xjwoov/)).
 * __Phantom wipes__ The car may wipe or spray the windshield when you turn on FSD, even when the glass is clean. Owners call it
-normal but maddening, and one said it stopped after FSD v14.3.12 ([1](https://www.reddit.com/r/ModelYL/comments/1x6q3yv/),
-[2](https://www.reddit.com/r/ModelYL/comments/1x7pmnx/)). The washer fluid that comes in the car is thick and streaky, so
+normal but maddening. One said it stopped after FSD v14.3.12 ([1](https://www.reddit.com/r/ModelYL/comments/1x6q3yv/),
+[2](https://www.reddit.com/r/ModelYL/comments/1x7pmnx/)), but owners still report it on later updates
+([3](https://www.reddit.com/r/TeslaModelY/comments/1xy4y2n/)). The washer fluid that comes in the car is thick and streaky, so
 some owners switch to their own once it runs low.
 * __Camera calibration__ FSD can be unavailable for a while after pickup while the cameras calibrate; one owner lost it for a
 few hours. That's normal. A camera-obstructed warning that won't clear after cleaning the lens is not (see the camera item
@@ -657,5 +654,18 @@ here's the [liner peeling off from the lift gate trim](https://imgur.com/a/mqvdf
 service for anything that's coming loose.
 * __Steering wheel__ The synthetic leather on the wheel can peel. Some service centers replace it under warranty as a
 known defect, but one refused for a 2024 Model Y at 40,000 miles ([1](https://www.reddit.com/r/ModelY/comments/1xs60rs/)).
+
+## Resolved
+
+Earlier owners ran into these, but Tesla has since fixed the cause, so you shouldn't need to check for them. They stay here in
+case one turns up anyway.
+
+* __Launch Series dashboard wing__ The suede dashboard wing comes only with the black interior; Zen Gray interiors get fabric,
+and so do the door inserts below the ambient light strip. Early Zen Gray buyers found the fabric wing only at pickup
+([1](https://www.reddit.com/r/ModelYL/comments/1wujsth/), [2](https://www.reddit.com/r/ModelYL/comments/1wt716w/),
+[3](https://www.reddit.com/r/ModelYL/comments/1wuafit/)). Resolved in late October 2026: Tesla now sends Zen Gray buyers an
+alert in the app asking them to accept the fabric wing as a configuration change, and delivery doesn't go ahead until they do.
+No surprises at pickup have been reported since ([4](https://www.reddit.com/r/ModelYL/comments/1xczek1/),
+[5](https://www.reddit.com/r/ModelYL/comments/1xdive7/)).
 
 Pull requests for changes and additions welcome.
