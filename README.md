@@ -238,10 +238,12 @@ should be approximately equal). An improperly installed windshield causes signif
 #### Sides and body
 
 - [ ] Check for uneven/wide panel gaps and that panels are flush to car, including around the doors, trunk arms, and roof
-- [ ] Press on the small triangular trim piece at the front corner of each front door window, next to the mirror. It shouldn't
-give. Both were loose on one new Model Y L, and owners say a loose one whistles at highway speeds
+- [ ] Press on the small triangular trim piece where each front door window meets the A pillar, next to the mirror. It
+shouldn't give. Both were loose on one new Model Y L, and owners say a loose one whistles from the A pillar at highway speeds
 ([1](https://www.reddit.com/r/ModelYL/comments/1y3zh7u/))
-> * __Fix:__ service tightened and glued one owner's back down; painter's tape quiets the whistle until your appointment
+> * __Fix:__ book service rather than pressing it back yourself. Service tightened and glued one owner's back down
+> ([1](https://www.reddit.com/r/ModelYL/comments/1y3zh7u/)), and another owner couldn't get theirs to clip back in
+> ([2](https://www.reddit.com/r/TeslaSupport/comments/1y4dmjp/)). Painter's tape quiets the whistle until your appointment
 - [ ] Inspect the paint on the outside, ensure panel corners do not have chips. Look for dust or specks trapped under the clear
 coat, especially on the fenders ([1](https://www.reddit.com/r/ModelYL/comments/1wuafit/), [2](https://www.reddit.com/r/ModelYL/comments/1wvjv6o/),
 [3](https://www.reddit.com/r/TeslaModelY/comments/1xuhmbx/), [4](https://www.reddit.com/r/ModelY/comments/1xqf6dn/))
